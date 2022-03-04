@@ -17,7 +17,7 @@ void ordenar(int vect[], int aux)
                 	cout<<vect[3]<<" ";
                 	cout<<vect[4]<<" ";
                 	cout<<vect[5]<<" ";
-					cin.get();
+			cin.get();
 					}
         	}	
     	}	
