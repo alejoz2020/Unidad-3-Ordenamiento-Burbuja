@@ -1,6 +1,5 @@
 /*@DESKTOP-ALEJOZ*/
 #include<iostream>
-/*metodo pricipal*/
 using namespace std;
 void ordenar(int vect[], int aux) 
 	{
