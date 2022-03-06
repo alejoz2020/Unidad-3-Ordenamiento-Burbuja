@@ -31,7 +31,7 @@ int main()
 		    cout<<"Monica Andrea Lopez Zapata"<<"\n";
 		    cout<<"Cesar Augusto Ospina Montoya"<<"\n";
 		    cout<<"Jeimy Andrea Gonzalez Casas"<<"\n";
-		    cout<<"Fauner Meiby Sophie Salma"<<"\n";
+		    cout<<"Fauner Lara Silva"<<"\n";
 		    cout<<"Alejandro Zapata Calle"<<"\n\n\n";
 		    cout<<"Arreglo a ordenar: ";
 		    for (int i=0;i<k;i++) 
